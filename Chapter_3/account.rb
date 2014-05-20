@@ -1,7 +1,7 @@
 class Account
   attr_accessor :balance      # setter and getter
   def initialize(balance)     # like 1 arg constructor
-    @balance = balance
+    @balance = balance        # arbitrary comment for example
   end
 end
 

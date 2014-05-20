@@ -9,6 +9,9 @@
 #  to consider just how much of your class you'll
 #  be exposing to the outside world.
 
+# --A car usually has an accessible gas tank, other fluids are
+#  less accessible, and some are sealed off--
+
 # Ruby gives you three levels of protection:
 
 # - Public methods
