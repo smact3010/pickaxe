@@ -10,6 +10,6 @@ end
 # scan returns an array of substrings that match a given pattern
 # the pattern is [\w']+
 
-p words_from_string("But I didn't inhale, he said (emphatically)")
+# p words_from_string("But I didn't inhale, he said (emphatically)")
 
-p words_from_string("Sparky the Cat sat on the mat")
+# p words_from_string("Sparky the Cat sat on the mat")

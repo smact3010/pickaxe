@@ -8,17 +8,6 @@ def count_frequency(word_list)
   counts
 end
 
-p count_frequency(["sparky", "the", "cat", "sat", "on", "the", "mat"])
+# p count_frequency(["sparky", "the", "cat", "sat", "on", "the", "mat"])
 
-p count_frequency(["but", "i", "didn't", "inhale", "he", "said", "emphatically", "tada"])
-
-practice = Hash.new("dne")
-practice["kyle"] = "ross"
-practice["stephan"] = "taylor"
-practice = 
-
-puts practice["kyle"]
-puts practice["stephan"]
-puts practice["mike"]
-
-practice1 = { "kyle" => "ross", "stephan" => "ross" }
+# p count_frequency(["but", "i", "didn't", "inhale", "he", "said", "emphatically", "tada"])
